@@ -1,0 +1,65 @@
+.all {
+    width: 500px;
+    height: 320px;
+    padding: 10px;
+    margin: auto;
+    background: yellow;
+    border-radius: 8px;
+}
+
+.up {
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.down {
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.value {
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.inputs {
+    width: 100%;
+    height: 100%;
+    border-radius: ;
+    background: #e9f0ea;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.button-res {
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.button-gen {
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.buttons {
+    width: 100%;
+    height: 100%;
+    border-radius: ;
+    background: #e7cda4;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
